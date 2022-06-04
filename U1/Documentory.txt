@@ -1,4 +1,3 @@
-Now let me just make a resume of what we just learned:
 - Variable - A piece of code that can hold anything from a couple of characters to gigantic numbers
 - String - Strings are variables that hold text. To tell the program that some set of characters is a string we surround the text with quotes "".
 - Function- A piece of machine code that is focused on doing a specific task.Functions can be reused in multiple times through out your code.
@@ -13,6 +12,6 @@ Would print "Hello" in quotes to the console itself. Backdoor characters can als
 - Custom combinations - They are a combination of a backdoor symbol and a character. Most of them ill be covering when we need to use them. 
 - Newline - (\n)  - The newline custom combination is the backslash symbol plus n. It tells the string that this in a newline inside of the string. For example if you wanted to print "Hello" and "Who are you" in the same string in different lines you would do:
 print("Hello\nWho are you")
-
-
-Thats basically it for now but i will cover other functions later today or in a couple of days. For now what i want you to do is push this to its max. Make your own text art with it in the console or write a cool story. Be creative and do something that is both fun and exciting.
+- Integer (aka int) - a set of whole numbers.
+- Comments - Text that the program doesn't recognise as code. To start a comment write # + The comment you want to make. Like lets say:
+print("Hello!") #Prints Hello! to the console
